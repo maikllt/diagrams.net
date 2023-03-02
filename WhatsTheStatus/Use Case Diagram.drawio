@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T05:39:33.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NlY4gAJ4f6RP6WKB81wD" version="20.8.23" type="github"><diagram name="Puslapis-1" id="QXaIHB3n7ljjZj_HsxJJ">3ZTdT4MwEMD/Gh6XAHVje9yXM1EzsyXuuUIHTQqH5RDmX2+R4ytooon64Avp/Xq0d782tdg6Lneap9E9BEJZrh2UFttYrjufLcy3ApcaTBdODUItgxr1wFG+CoI20VwGIhskIoBCmQ6hD0kifBwwrjUUw7QzqOGuKQ/FCBx9rsb0JAOMqC3X6/iNkGHU7Ow0Dce8SaZOsogHUPQQ21psrQGwHsXlWqjKXeOl/u/6k9m2MC0S/MoP++Xz9BbPj/ODezjtc8+ZsO2EVnnhKqeGqVi8NAayQsaKJyZaZcg10hnZJh6X0KwnNIqyh6iknYBYoL6YFJplzUHT/biisOhkuzaxqCeaeQQ5HXDYLt05MAPS8A0l7kjJ0kfQYy8RT6thHqs6ga2qtqW5O3f8SagHyCRKSEzKEyBC3EtYKhlWEwipoRHGpsKNY4aQo5KJWLe3+Yc0O95Qcxv3PLMPNM9+yzL7j5Znf2fZhN3T8T7Xe3/Z9g0=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-02T05:42:03.700Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ut4dYPsE6vR-mit8H1_t" version="20.8.23" type="github">
+  <diagram name="Puslapis-1" id="QXaIHB3n7ljjZj_HsxJJ">
+    <mxGraphModel dx="869" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OAq5KtfV8R2RWOu71-3E-1" value="" style="swimlane;startSize=0;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="310" y="40" width="200" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="E9pZhcFubc04Qc_ZevSI-1" value="WhatsTheStatus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="OAq5KtfV8R2RWOu71-3E-1">
+          <mxGeometry x="15" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OAq5KtfV8R2RWOu71-3E-2" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAq5KtfV8R2RWOu71-3E-3" value="Company" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
